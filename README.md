@@ -40,12 +40,14 @@ Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to yo
 - To assist with creating a custom flagset, you can click **Open Base Randomizer** (lower left) to easily open it from within Deluxe and customize the options to your liking. When done, simply copy and paste the flags over into Deluxe.
 
 5. Select your desired options, or enter the **Mac Flags** as needed
-- Every option has a relevant toolip when hovered over containing more info on what the option does
+- Every option has a relevant tooltip when hovered over containing more information on what the option does
 - To reset all options to default (aside from any aesthetic tweaks), simply enter ‘0’.
 - **Presets** allow you to save up to eight Mac Flags for later reference. Clicking a Preset in the dropdown will automatically apply the selected flags. Click **Save** to save the current Mac Flags into the selected Preset slot (to select a different slot, you will need to copy the flags, select the desired slot, then paste your flags back in so they are not lost)
 
 6. Click **Generate!**
 
 Once you click Generate, an automated process will occur that will open the base randomizer to create the initial randomized game before applying the selected Deluxe options. To ensure everything works correctly, do **NOT** interrupt this process until it is complete and you see the ‘Patches applied successfully’ message.
+
+For more information on the specific options included, you can read about them here: https://docs.google.com/document/d/1k1yZclb852mkN5p4a3yRQ7Q0E2Ivn9k0kcMxqkYxYPw/edit?usp=sharing
 
 Enjoy!
