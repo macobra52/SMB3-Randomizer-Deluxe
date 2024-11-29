@@ -1,4 +1,4 @@
-#  SMB3-Randomizer-Deluxe
+#  SMB3 Randomizer Deluxe
 
 SMB3 Randomizer Deluxe is an expansion of fcoughlin’s SMB3 Randomizer that combines the two programs to deliver even more features to the classic randomizer you know and love. With his permission and blessing, both programs have been packaged together into one distribution, allowing Deluxe to automate generation of the ‘base’ randomized game and enhance it further with additional patches and randomization! Deluxe exclusive features include:
 
