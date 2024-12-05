@@ -14,7 +14,7 @@ SMB3 Randomizer Deluxe is an expansion of fcoughlin’s SMB3 Randomizer that com
 - Add random power-ups to beta stages that normally don’t have one
 - Randomize whether locks and/or bridges appear on the final World 8 screen
 - Remove full screen flashing effects from the game
-- Play as Peach or Toad (to keep things fair, Peach cannot float here)
+- Play as Luigi, Toad, or Peach (to keep things fair, physics with other characters are unchanged...Peach cannot float, for example)
 - Gameplay changes, such as the ability to enter an occupied Kuribo shoe from above and tail attacking while swimming
 - Optional buffs to the frog suit, tanooki suit, and music box
 - Bring back the castle airship flying away on death
