@@ -32,7 +32,7 @@ SMB3 Randomizer Deluxe is an expansion of fcoughlin’s SMB3 Randomizer that com
 
 Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to your preferred location and open **Mario3RandomizerDeluxe.exe**
 
-(Note: If any of the files are flagged by your system as a 'virus', you will need to allow them/add them as an exception. This is due to the automation aspects of the program and is a false positive)
+**(Note: If any of the files are flagged by your system as a 'virus', you will need to allow them/add them as an exception. This is due to the automation aspects of the program and is a false positive)**
 
 1. Click **Select ROM File** and select the location of your original unmodified SMB3 game (PRG0 or PRG1 preferred).
 
