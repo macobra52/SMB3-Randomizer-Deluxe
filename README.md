@@ -32,24 +32,33 @@ SMB3 Randomizer Deluxe is an expansion of fcoughlin’s SMB3 Randomizer that com
 
 Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to your preferred location and open **Mario3RandomizerDeluxe.exe**
 
+(Note: If any of the files are flagged by your system as a 'virus', you will need to allow them/add them as an exception. This is due to the automation aspects of the program and is a false positive)
+
 1. Click **Select ROM File** and select the location of your original unmodified SMB3 game (PRG0 or PRG1 preferred).
 
 2. Click **Select Output Folder** and select the preferred location where you want randomized games to be saved.
 
 3. Enter a **Seed**, or simply use the one provided.
 
-4. Enter the **Base Flags**, or select a preset from the drop-down. These will be automatically inserted into fcoughlin’s SMB3 randomizer.
+4. Enter the **Base Flags**. These will be automatically inserted into fcoughlin’s SMB3 randomizer.
 - To assist with creating a custom flagset, you can click **Open Base Randomizer** (lower left) to easily open it from within Deluxe and customize the options to your liking. When done, simply copy and paste the flags over into Deluxe.
 
 5. Select your desired options, or enter the **Mac Flags** as needed
 - Every option has a relevant tooltip when hovered over containing more information on what the option does
 - To reset all options to default (aside from any aesthetic tweaks), simply enter ‘0’.
-- **Presets** allow you to save up to eight Mac Flags for later reference. Clicking a Preset in the dropdown will automatically apply the selected flags. Click **Save** to save the current Mac Flags into the selected Preset slot (to select a different slot, you will need to copy the flags, select the desired slot, then paste your flags back in so they are not lost)
+- **Presets** allow you to save Base/Mac Flag combinations for later reference. Click **Load Flags** to load a saved preset and **Save Flags** to save the current flags as a preset
 
 6. Click **Generate!**
 
 Once you click Generate, an automated process will occur that will open the base randomizer to create the initial randomized game before applying the selected Deluxe options. To ensure everything works correctly, do **NOT** interrupt this process until it is complete and you see the ‘Patches applied successfully’ message.
 
 For more information on the specific options included, you can read about them here: https://docs.google.com/document/d/1k1yZclb852mkN5p4a3yRQ7Q0E2Ivn9k0kcMxqkYxYPw/edit?usp=sharing
+
+# Special Thanks To:
+
+- Captain Southbird for their work on the SMB3 Disassembly, which none of this would be possible without!
+- fcoughlin (Fred!) for permission to integrate his SMB3 Randomizer into the Deluxe distribution
+- Maeson, JosueCr4ft, and Zynk Oxhyde for permission to integrate their Luigi, Toad, and Peach hacks, respectively
+- Quick Curly for the Dark World 8 patch
 
 Enjoy!
