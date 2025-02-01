@@ -2,7 +2,7 @@
 
 ![SMB3 Rando Deluxe](https://github.com/user-attachments/assets/9cdbb605-4bcb-4de7-8e72-a21dbd466595)
 
-SMB3 Randomizer Deluxe is an expansion of fcoughlin’s SMB3 Randomizer that combines the two programs to deliver even more features to the classic randomizer you know and love. With his permission and blessing, both programs have been packaged together into one distribution, allowing Deluxe to automate generation of the ‘base’ randomized game and enhance it further with additional patches and randomization! Deluxe exclusive features include:
+SMB3 Randomizer Deluxe (formerly known as the Mac Patcher) is an expansion of fcoughlin’s SMB3 Randomizer that combines the two programs to deliver even more features to the classic randomizer you know and love. With his permission and blessing, both programs have been packaged together into one distribution, allowing Deluxe to automate generation of the ‘base’ randomized game and enhance it further with additional patches and randomization! Deluxe exclusive features include:
 
 - More options for Starting Lives
 - The ability to select the game length in terms of Number of Worlds
