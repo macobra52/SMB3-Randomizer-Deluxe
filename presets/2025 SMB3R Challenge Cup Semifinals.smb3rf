@@ -1,4 +1,4 @@
-#Sat Jun 14 22:03:41 EDT 2025
+#Sun Aug 03 13:37:34 EDT 2025
 oopsAllAnchors=false\:false
 lockInventory=false\:false
 startingLives=2\:false
@@ -37,12 +37,12 @@ worldCountMax=5
 hammersCanHit=true\:false
 dejaVu=false\:false
 toadHouses=0\:false
-startWithWhistle=false\:false
 hammerToSuit=false\:false
 lessDonutBlock=false\:false
+firstWorldForced=false\:false
 letterHints=false\:false
 fasterCannon=false\:false
-title=SMB3 Randomizer 'Mac Patcher' Deluxe V1.4.2
+title=SMB3 Randomizer 'Mac Patcher' Deluxe V1.4.3
 miscEnemies=true\:false
 reverseLevels=false\:false
 fasterBoomBoom=false\:false
