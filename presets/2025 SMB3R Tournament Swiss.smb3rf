@@ -1,4 +1,4 @@
-#Sun Aug 03 13:37:42 EDT 2025
+#Fri Aug 15 09:02:57 EDT 2025
 oopsAllAnchors=false\:false
 lockInventory=false\:false
 startingLives=2\:false
@@ -42,7 +42,7 @@ lessDonutBlock=false\:false
 firstWorldForced=false\:false
 letterHints=false\:false
 fasterCannon=false\:false
-title=SMB3 Randomizer 'Mac Patcher' Deluxe V1.4.3
+title=SMB3 Randomizer 'Mac Patcher' Deluxe V1.4.4
 miscEnemies=true\:false
 reverseLevels=false\:false
 fasterBoomBoom=false\:false
@@ -63,6 +63,7 @@ itemDist=0
 hammerBros=1\:false
 miscPowerups=true\:false
 noGameOverPenalty=true\:false
+includeLeafs=false\:false
 smb3BaseFlags=3KB9K7X80X2BJ14
 randomizeBridges=true\:false
 fasterBowser=false\:false
