@@ -16,7 +16,7 @@ SMB3 Randomizer Deluxe (formerly known as the Mac Patcher) is an expansion of fc
 - Remove full screen flashing effects from the game
 - Play as Luigi, Toad, or Peach (to keep things fair, physics with other characters are unchanged...Peach cannot float, for example)
 - Gameplay changes, such as the ability to enter an occupied Kuribo shoe from above and tail attacking while swimming
-- Optional buffs to the frog suit, tanooki suit, and music box
+- Optional buffs to the frog suit and tanooki suit
 - Bring back the castle airship flying away on death
 - Make all of World 8 dark (instead of just the third screen)
 - Options to drastically increase difficulty, such as reduced time, ice physics everywhere, and ‘kaizo’ enemies
