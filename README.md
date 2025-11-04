@@ -37,10 +37,11 @@ Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to yo
 1. Click **Select ROM File** and select the location of your original unmodified SMB3 game (PRG0 or PRG1 preferred).
 
 2. Click **Select Output Folder** and select the preferred location where you want randomized games to be saved.
+- The files/directories selected must be local to your machine. Network/Cloud locations (such as OneDrive) will not work.
 
-3. Enter a **Seed**, or simply use the one provided.
+4. Enter a **Seed**, or simply use the one provided.
 
-4. Enter the **Base Flags**. These will be automatically inserted into fcoughlin’s SMB3 randomizer.
+5. Enter the **Base Flags**. These will be automatically inserted into fcoughlin’s SMB3 randomizer.
 - To assist with creating a custom flagset, you can click **Open Base Randomizer** (lower left) to easily open it from within Deluxe and customize the options to your liking. When done, simply copy and paste the flags over into Deluxe.
 
 5. Select your desired options, or enter the **Mac Flags** as needed
