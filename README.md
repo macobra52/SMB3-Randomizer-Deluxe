@@ -37,7 +37,7 @@ Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to yo
 1. Click **Select ROM File** and select the location of your original unmodified SMB3 game (PRG0 or PRG1 preferred).
 
 2. Click **Select Output Folder** and select the preferred location where you want randomized games to be saved.
-- The files/directories selected must be local to your machine. Network/Cloud locations (such as OneDrive) will not work.
+- **The files/directories selected must be local to your machine. Network/Cloud locations (such as OneDrive) will not work.**
 
 4. Enter a **Seed**, or simply use the one provided.
 
