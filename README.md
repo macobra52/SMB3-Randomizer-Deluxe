@@ -60,5 +60,6 @@ For more information on the specific options included, you can read about them h
 - fcoughlin (Fred!) for permission to integrate his SMB3 Randomizer into the Deluxe distribution
 - Maeson, JosueCr4ft, and Zynk Oxhyde for permission to integrate their Luigi, Toad, and Peach hacks, respectively
 - Quick Curly for the Dark World 8 patch
+- jrowboy for providing a fix for the Faster Frog P-speed sprite
 
 Enjoy!
