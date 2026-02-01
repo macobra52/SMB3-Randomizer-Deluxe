@@ -39,17 +39,19 @@ Once you have SMB3 Randomizer Deluxe downloaded, simply extract the folder to yo
 2. Click **Select Output Folder** and select the preferred location where you want randomized games to be saved.
 - **The files/directories selected must be local to your machine. Network/Cloud locations (such as OneDrive) will not work.**
 
-4. Enter a **Seed**, or simply use the one provided.
+3. Enter a **Seed**, or simply use the one provided.
 
+4. **Select Preset** allow you to pick a default set of Base Flags and Mac Flags to try, or save/load your own. Alternatively, see the following two steps to configure the Flags manually.
+   
 5. Enter the **Base Flags**. These will be automatically inserted into fcoughlin’s SMB3 randomizer.
 - To assist with creating a custom flagset, you can click **Open Base Randomizer** (lower left) to easily open it from within Deluxe and customize the options to your liking. When done, simply copy and paste the flags over into Deluxe.
 
-5. Select your desired options, or enter the **Mac Flags** as needed
+6. Select your desired options, or enter the **Mac Flags** as needed
 - Every option has a relevant tooltip when hovered over containing more information on what the option does
 - To reset all options to default (aside from any aesthetic tweaks), simply enter ‘0’.
 - **Presets** allow you to save Base/Mac Flag combinations for later reference. Click **Load Flags** to load a saved preset and **Save Flags** to save the current flags as a preset
 
-6. Click **Generate!**
+7. Click **Generate!**
 
 Once you click Generate, an automated process will occur that will open the base randomizer to create the initial randomized game before applying the selected Deluxe options. To ensure everything works correctly, do **NOT** interrupt this process until it is complete and you see the ‘Patches applied successfully’ message.
 
